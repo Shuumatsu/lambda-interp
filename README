@@ -1,0 +1,14 @@
+impl for pure lambda calculus with comments
+    - lexer
+    - parser
+    - alpha conversion
+    - beta reduction
+
+
+branches:
+    - subst: implemented using the substitution model
+        - call by value 
+        - call by name
+    - env: implemented using the enviroment model
+        - dynamic scope
+        - lexical scope
